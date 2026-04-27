@@ -1,7 +1,10 @@
 # Análisis de Ventas Walmart 2012 — Eficiencia y Participación por Departamento
 Autor: Roberto Barrera García
+
 Programa: Certificación Data Analyst — TripleTen Bootcamp
+
 Sprint: Transformando Datos para Insights de Negocio
+
 Herramienta principal: Microsoft Excel / Google Sheets
 
 ## Contexto del proyecto
