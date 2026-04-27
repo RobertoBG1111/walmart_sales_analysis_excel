@@ -7,6 +7,10 @@ Sprint: Transformando Datos para Insights de Negocio
 
 Herramienta principal: Microsoft Excel / Google Sheets
 
+## Autor
+Roberto Barrera — Aspirante a Data Analyst Jr.  
+[LinkedIn](www.linkedin.com/in/robertobarreragarcia) · [GitHub](https://github.com/tu-usuario)
+
 ## Contexto del proyecto
 La dirección comercial de Walmart necesitaba información clara para tomar decisiones de presupuesto e inventario para el Q1 2013. El dataset contiene registros de ventas semanales por tienda y departamento durante el año 2012.
 
